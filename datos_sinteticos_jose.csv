@@ -1,0 +1,21 @@
+﻿hospital_id,hospital_name,country,city,region,month,year,total_admissions,heart_failure_cases,mortality_rate_30day,mortality_rate_90day,mortality_rate_inhospital,readmission_rate_30day,avg_length_of_stay_days,complication_rate,hf_mortality_rate,hf_readmission_rate,hf_avg_los
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,1,2025,1540,108,2.6,4.5,2.1,13.3,5.7,10.1,7.3,19.7,8.3
+H004,Hospital San Vicente de Paúl,Colombia,Medellín,Antioquia,9,2024,1002,69,3.9,6.3,3.1,16.9,6.9,14.4,9.6,24.5,9.8
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,8,2024,1574,113,1.5,2.6,1.1,9.2,4.3,5.4,4.2,12.8,6.1
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,9,2024,1601,117,1.6,2.7,1.1,9.5,4.4,5.6,4.4,13.2,6.3
+H007,Hospital Cayetano Heredia,Peru,Lima,Lima Region,11,2024,1102,77,3.0,5.2,2.5,15.0,6.2,11.9,7.6,22.1,8.9
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,11,2024,1298,95,2.4,4.2,1.9,12.7,5.3,9.1,6.5,19.1,8.1
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,3,2024,802,55,3.8,6.3,3.1,17.3,7.0,14.3,9.5,25.2,10.0
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,1,2024,1879,132,1.6,2.7,1.1,9.6,4.4,5.9,4.5,13.5,6.4
+H012,Hospital das Clínicas,Brazil,São Paulo,Southeast Brazil,5,2024,2623,184,2.0,3.5,1.5,10.9,4.8,7.2,5.5,14.9,6.7
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,4,2024,1845,129,1.5,2.6,1.1,9.3,4.3,5.7,4.3,13.1,6.2
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,3,2024,1214,85,2.2,3.9,1.7,12.3,5.5,8.7,6.5,17.3,7.8
+H013,Hospital Privado Universitario,Argentina,Córdoba,Córdoba Province,1,2025,1447,102,1.9,3.3,1.4,10.7,4.8,7.0,5.3,15.1,6.9
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,12,2024,1847,130,1.5,2.6,1.1,9.3,4.3,5.7,4.3,13.2,6.2
+H026,Hospital Universitario de Neiva,Colombia,Neiva,Huila,5,2024,856,59,3.5,5.9,2.9,16.3,6.8,13.7,9.2,23.7,9.7
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,9,2024,1247,89,2.3,4.1,1.8,12.4,5.2,8.7,6.2,18.3,7.8
+H016,Hospital CIMA,Costa Rica,San José,San José Province,6,2024,1306,92,1.4,2.5,1.0,9.1,4.2,5.3,4.0,12.4,5.9
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,12,2024,1256,88,2.1,3.7,1.6,12.0,5.4,8.5,6.3,17.1,7.6
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,6,2024,1052,73,1.6,2.7,1.1,9.7,4.4,5.8,4.3,13.2,6.3
+H010,Hospital Escuela,Honduras,Tegucigalpa,Francisco Morazán,4,2024,552,37,4.9,7.9,3.9,20.4,8.1,17.7,12.0,29.7,11.9
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,4,2024,1887,134,1.6,2.8,1.2,9.7,4.5,6.0,4.6,13.7,6.5
