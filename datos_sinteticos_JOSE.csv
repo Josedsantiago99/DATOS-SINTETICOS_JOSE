@@ -1,0 +1,151 @@
+﻿hospital_id,hospital_name,country,city,region,month,year,total_admissions,heart_failure_cases,mortality_rate_30day,mortality_rate_90day,mortality_rate_inhospital,readmission_rate_30day,avg_length_of_stay_days,complication_rate,hf_mortality_rate,hf_readmission_rate,hf_avg_los
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,12,2024,1496,105,2.5,4.3,2.0,12.8,5.6,9.6,6.9,18.9,7.9
+H027,Hospital San José,Colombia,Bogotá,Cundinamarca,10,2024,1697,119,2.4,4.1,1.9,12.8,5.6,9.3,6.9,18.6,8.1
+H022,Hospital Clínico Universidad Católica,Chile,Santiago,Metropolitan Santiago,7,2024,1959,137,1.4,2.4,1.0,8.8,4.1,5.1,3.7,12.2,5.8
+H019,Hospital del Salvador,Chile,Santiago,Metropolitan Santiago,4,2024,1752,124,2.0,3.5,1.6,11.8,5.2,7.9,6.1,16.5,7.4
+H007,Hospital Cayetano Heredia,Peru,Lima,Lima Region,4,2024,1115,78,3.0,5.3,2.5,15.1,6.3,12.0,7.7,22.3,9.0
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,9,2024,1241,87,2.2,3.9,1.7,12.0,5.1,8.4,6.0,18.2,7.6
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,10,2024,813,56,4.3,6.9,3.5,18.8,7.7,15.7,10.4,27.3,10.9
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,7,2024,1791,126,1.7,2.9,1.3,10.1,4.5,6.4,4.7,14.2,6.5
+H014,Hospital Sírio-Libanês,Brazil,São Paulo,Southeast Brazil,9,2024,1682,118,0.9,1.7,0.6,6.8,3.4,3.4,2.4,8.7,4.5
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,4,2024,1827,129,1.8,3.0,1.3,10.4,4.6,6.6,4.9,14.7,6.7
+H022,Hospital Clínico Universidad Católica,Chile,Santiago,Metropolitan Santiago,2,2024,1912,135,1.3,2.3,0.9,8.4,4.0,4.8,3.5,11.7,5.6
+H006,Hospital Italiano,Argentina,Buenos Aires,Buenos Aires Province,4,2024,1845,131,1.8,3.1,1.4,10.7,4.7,6.9,5.2,14.9,6.9
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,4,2024,1619,114,1.6,2.8,1.2,9.8,4.5,6.2,4.7,13.6,6.4
+H026,Hospital Universitario de Neiva,Colombia,Neiva,Huila,5,2024,882,62,3.7,6.2,3.1,17.0,7.1,14.4,9.6,24.8,10.1
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,8,2024,1562,110,2.7,4.6,2.2,13.6,5.9,10.3,7.4,20.1,8.4
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,2,2024,1020,71,1.4,2.5,1.0,9.2,4.2,5.4,4.1,12.5,6.0
+H019,Hospital del Salvador,Chile,Santiago,Metropolitan Santiago,4,2024,1752,124,2.0,3.5,1.6,11.8,5.2,7.9,6.1,16.5,7.4
+H016,Hospital CIMA,Costa Rica,San José,San José Province,10,2024,1306,92,1.4,2.5,1.0,9.1,4.2,5.3,4.0,12.4,5.9
+H010,Hospital Escuela,Honduras,Tegucigalpa,Francisco Morazán,10,2024,554,37,5.3,8.6,4.4,22.1,8.8,19.3,13.1,31.8,12.8
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,1,2024,1800,127,1.7,2.9,1.3,10.2,4.5,6.5,4.8,14.4,6.6
+H010,Hospital Escuela,Honduras,Tegucigalpa,Francisco Morazán,6,2024,551,37,5.3,8.5,4.4,22.0,8.7,19.2,13.0,31.7,12.7
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,8,2024,1496,105,2.5,4.3,2.0,12.8,5.6,9.6,6.9,18.9,7.9
+H014,Hospital Sírio-Libanês,Brazil,São Paulo,Southeast Brazil,6,2024,1759,124,1.1,1.9,0.7,7.4,3.6,3.8,2.7,9.5,4.9
+H004,Hospital San Vicente de Paúl,Colombia,Medellín,Antioquia,3,2024,945,64,3.6,6.0,2.9,16.2,6.6,13.8,9.1,23.7,9.4
+H025,Hospital Santo Tomás,Panama,Panama City,Panama Province,6,2024,1482,104,2.8,4.8,2.3,14.0,6.1,10.6,7.3,20.4,8.6
+H014,Hospital Sírio-Libanês,Brazil,São Paulo,Southeast Brazil,12,2024,1742,123,1.0,1.9,0.7,7.3,3.6,3.7,2.7,9.3,4.8
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,8,2024,1884,133,1.6,2.7,1.1,9.6,4.4,5.9,4.5,13.6,6.4
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,10,2024,1827,129,1.8,3.0,1.3,10.4,4.6,6.6,4.9,14.7,6.7
+H011,Hospital Universitario de Caracas,Venezuela,Caracas,Capital District,12,2024,436,29,7.1,10.9,5.8,27.2,11.2,24.9,16.8,40.0,16.3
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,10,2024,1045,73,1.5,2.7,1.1,9.6,4.4,5.7,4.3,13.1,6.2
+H010,Hospital Escuela,Honduras,Tegucigalpa,Francisco Morazán,5,2024,552,37,4.9,7.9,3.9,20.4,8.1,17.7,12.0,29.7,11.9
+H005,Hospital Maciel,Uruguay,Montevideo,Montevideo,1,2024,764,53,2.9,4.9,2.4,14.2,6.1,10.9,7.3,20.7,8.7
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,5,2024,1040,73,1.5,2.6,1.1,9.5,4.3,5.7,4.3,13.0,6.2
+H028,Hospital Escuela Dr. Roberto Calderón,Nicaragua,Managua,Managua Department,10,2024,596,40,5.3,8.6,4.4,22.4,8.9,19.6,13.0,32.4,13.2
+H014,Hospital Sírio-Libanês,Brazil,São Paulo,Southeast Brazil,12,2024,1759,124,1.1,1.9,0.7,7.4,3.6,3.8,2.7,9.5,4.9
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,1,2025,1056,74,1.6,2.7,1.1,9.7,4.4,5.8,4.4,13.3,6.3
+H010,Hospital Escuela,Honduras,Tegucigalpa,Francisco Morazán,6,2024,564,38,5.4,8.7,4.5,22.4,8.9,19.6,13.3,32.3,13.0
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,10,2024,1034,72,1.5,2.6,1.1,9.4,4.3,5.6,4.2,12.8,6.1
+H011,Hospital Universitario de Caracas,Venezuela,Caracas,Capital District,8,2024,436,29,7.1,10.9,5.8,27.2,11.2,24.9,16.8,40.0,16.3
+H008,Hospital México,Costa Rica,San José,San José Province,8,2024,904,62,2.5,4.4,2.0,13.1,5.6,9.5,6.5,18.9,7.9
+H005,Hospital Maciel,Uruguay,Montevideo,Montevideo,3,2024,752,52,2.6,4.4,2.1,13.1,5.6,9.9,6.6,19.2,7.9
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,3,2024,1619,114,1.6,2.8,1.2,9.8,4.5,6.2,4.7,13.6,6.4
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,6,2024,1585,114,1.5,2.6,1.1,9.3,4.3,5.5,4.2,12.9,6.2
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,1,2024,1214,85,2.2,3.9,1.7,12.3,5.5,8.7,6.5,17.3,7.8
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,5,2024,1887,134,1.6,2.8,1.2,9.7,4.5,6.0,4.6,13.7,6.5
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,9,2024,1268,89,2.4,4.1,1.9,13.1,5.8,9.3,6.9,18.3,8.2
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,6,2024,1830,130,1.8,3.1,1.4,10.5,4.7,6.7,5.0,14.8,6.8
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,3,2024,1574,113,1.5,2.6,1.1,9.2,4.3,5.4,4.2,12.8,6.1
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,7,2024,1562,110,2.7,4.6,2.2,13.6,5.9,10.3,7.4,20.1,8.4
+H012,Hospital das Clínicas,Brazil,São Paulo,Southeast Brazil,2,2024,2654,187,2.0,3.5,1.6,11.1,4.9,7.3,5.7,15.1,6.8
+H014,Hospital Sírio-Libanês,Brazil,São Paulo,Southeast Brazil,9,2024,1759,124,1.1,1.9,0.7,7.4,3.6,3.8,2.7,9.5,4.9
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,1,2024,1245,87,2.3,4.0,1.8,12.7,5.6,9.0,6.7,17.8,8.0
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,6,2024,1256,88,2.1,3.7,1.6,12.0,5.4,8.5,6.3,17.1,7.6
+H025,Hospital Santo Tomás,Panama,Panama City,Panama Province,8,2024,1482,104,2.8,4.8,2.3,14.0,6.1,10.6,7.3,20.4,8.6
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,1,2024,1254,89,2.2,4.0,1.8,12.2,5.2,8.6,6.1,18.4,7.7
+H008,Hospital México,Costa Rica,San José,San José Province,9,2024,878,60,2.4,4.2,1.9,12.7,5.4,9.1,6.3,18.4,7.7
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,2,2024,1789,126,1.7,2.9,1.3,10.1,4.5,6.4,4.7,14.2,6.5
+H005,Hospital Maciel,Uruguay,Montevideo,Montevideo,7,2024,735,51,2.7,4.6,2.2,13.7,5.8,10.4,7.0,20.1,8.3
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,1,2024,1612,113,1.6,2.8,1.2,9.7,4.5,6.1,4.6,13.5,6.4
+H012,Hospital das Clínicas,Brazil,São Paulo,Southeast Brazil,5,2024,2623,184,2.0,3.5,1.5,10.9,4.8,7.2,5.5,14.9,6.7
+H028,Hospital Escuela Dr. Roberto Calderón,Nicaragua,Managua,Managua Department,3,2024,614,41,5.6,8.9,4.6,23.2,9.2,20.4,13.6,33.6,13.7
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,5,2024,1544,109,2.6,4.5,2.1,13.4,5.8,10.2,7.3,19.8,8.3
+H016,Hospital CIMA,Costa Rica,San José,San José Province,10,2024,1298,91,1.2,2.2,0.9,8.3,3.9,4.8,3.5,11.4,5.5
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,5,2024,1189,82,2.1,3.9,1.7,11.8,5.1,8.3,5.9,17.8,7.5
+H011,Hospital Universitario de Caracas,Venezuela,Caracas,Capital District,10,2024,432,29,7.0,10.8,5.7,27.1,11.1,24.8,16.6,39.8,16.2
+H009,Hospital Roosevelt,Guatemala,Guatemala City,Guatemala Department,11,2024,683,45,4.5,7.3,3.7,19.9,7.9,16.9,11.3,28.6,11.4
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,4,2024,1568,112,1.5,2.6,1.1,9.2,4.3,5.4,4.2,12.8,6.1
+H004,Hospital San Vicente de Paúl,Colombia,Medellín,Antioquia,2,2024,1024,71,4.0,6.5,3.2,17.3,7.1,14.8,9.9,25.1,10.1
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,1,2024,1592,115,1.6,2.7,1.1,9.4,4.4,5.6,4.3,13.0,6.3
+H022,Hospital Clínico Universidad Católica,Chile,Santiago,Metropolitan Santiago,8,2024,1899,134,1.2,2.2,0.9,8.3,4.0,4.8,3.5,11.6,5.5
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,1,2025,1229,86,2.2,3.9,1.7,12.5,5.5,8.8,6.6,17.5,7.9
+H025,Hospital Santo Tomás,Panama,Panama City,Panama Province,5,2024,1490,106,2.9,4.9,2.4,14.2,6.2,10.7,7.4,20.6,8.7
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,9,2024,802,55,3.8,6.3,3.1,17.3,7.0,14.3,9.5,25.2,10.0
+H022,Hospital Clínico Universidad Católica,Chile,Santiago,Metropolitan Santiago,11,2024,1935,136,1.3,2.3,1.0,8.6,4.0,5.0,3.6,12.0,5.7
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,9,2024,1241,87,2.2,3.9,1.7,12.0,5.1,8.4,6.0,18.2,7.6
+H002,Hospital Israelita Albert Einstein,Brazil,São Paulo,Southeast Brazil,10,2024,2178,162,1.3,2.2,0.9,8.1,3.9,4.4,3.2,10.5,5.2
+H024,Hospital de Especialidades,Ecuador,Guayaquil,Guayas Province,1,2025,1330,93,3.4,5.8,2.9,16.5,6.8,13.5,8.8,24.1,9.8
+H013,Hospital Privado Universitario,Argentina,Córdoba,Córdoba Province,3,2024,1465,103,1.7,3.0,1.3,10.1,4.6,6.6,5.0,14.4,6.7
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,1,2024,1598,116,1.6,2.7,1.1,9.5,4.4,5.6,4.3,13.1,6.3
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,2,2024,1272,89,2.4,4.1,1.9,13.1,5.8,9.3,6.9,18.4,8.3
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,2,2024,1026,72,1.5,2.6,1.0,9.3,4.3,5.5,4.2,12.6,6.0
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,9,2024,1598,116,1.6,2.7,1.1,9.5,4.4,5.6,4.3,13.1,6.3
+H008,Hospital México,Costa Rica,San José,San José Province,8,2024,923,64,2.6,4.5,2.1,13.4,5.7,9.7,6.7,19.3,8.1
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,3,2024,789,54,4.1,6.7,3.4,18.3,7.4,15.2,10.1,26.5,10.6
+H012,Hospital das Clínicas,Brazil,São Paulo,Southeast Brazil,10,2024,2687,189,2.1,3.6,1.6,11.3,4.9,7.5,5.8,15.4,6.9
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,10,2024,1545,110,1.4,2.5,1.0,9.0,4.2,5.3,4.1,12.5,6.0
+H028,Hospital Escuela Dr. Roberto Calderón,Nicaragua,Managua,Managua Department,3,2024,614,41,5.6,8.9,4.6,23.2,9.2,20.4,13.6,33.6,13.7
+H006,Hospital Italiano,Argentina,Buenos Aires,Buenos Aires Province,8,2024,1845,131,1.8,3.1,1.4,10.7,4.7,6.9,5.2,14.9,6.9
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,10,2024,1800,127,1.7,2.9,1.3,10.2,4.5,6.5,4.8,14.4,6.6
+H027,Hospital San José,Colombia,Bogotá,Cundinamarca,2,2024,1697,119,2.4,4.1,1.9,12.8,5.6,9.3,6.9,18.6,8.1
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,11,2024,1809,127,1.7,2.9,1.3,10.3,4.6,6.5,4.8,14.5,6.6
+H016,Hospital CIMA,Costa Rica,San José,San José Province,1,2025,1273,89,1.3,2.3,0.9,8.7,4.1,5.1,3.8,11.9,5.7
+H009,Hospital Roosevelt,Guatemala,Guatemala City,Guatemala Department,2,2024,672,45,4.4,7.2,3.6,19.7,7.8,16.6,11.1,28.3,11.2
+H012,Hospital das Clínicas,Brazil,São Paulo,Southeast Brazil,1,2024,2703,191,1.9,3.4,1.5,10.6,4.7,7.0,5.4,14.6,6.5
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,5,2024,1614,113,1.6,2.8,1.2,9.7,4.5,6.1,4.6,13.5,6.4
+H002,Hospital Israelita Albert Einstein,Brazil,São Paulo,Southeast Brazil,9,2024,2121,155,1.2,2.0,0.8,7.8,3.8,4.2,3.0,10.1,5.0
+H028,Hospital Escuela Dr. Roberto Calderón,Nicaragua,Managua,Managua Department,1,2025,608,41,5.5,8.8,4.5,22.9,9.1,20.1,13.4,33.2,13.5
+H020,Hospital General de Agudos,Argentina,Buenos Aires,Buenos Aires Province,6,2024,2172,153,2.0,3.5,1.5,11.4,5.1,7.7,5.9,16.0,7.3
+H028,Hospital Escuela Dr. Roberto Calderón,Nicaragua,Managua,Managua Department,10,2024,604,41,5.5,8.7,4.5,22.8,9.1,19.9,13.2,32.9,13.4
+H011,Hospital Universitario de Caracas,Venezuela,Caracas,Capital District,1,2024,426,28,6.9,10.6,5.6,26.6,10.9,24.3,16.4,39.1,16.0
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,9,2024,1835,129,1.5,2.6,1.1,9.2,4.3,5.6,4.3,13.0,6.2
+H005,Hospital Maciel,Uruguay,Montevideo,Montevideo,9,2024,770,54,3.0,4.9,2.4,14.4,6.1,11.1,7.5,20.9,8.8
+H001,Hospital General de México,Mexico,Mexico City,Central Mexico,2,2024,1254,89,2.2,4.0,1.8,12.2,5.2,8.6,6.1,18.4,7.7
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,11,2024,1034,72,1.5,2.6,1.1,9.4,4.3,5.6,4.2,12.8,6.1
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,12,2024,1272,89,2.4,4.1,1.9,13.1,5.8,9.3,6.9,18.4,8.3
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,8,2024,1544,109,2.6,4.5,2.1,13.4,5.8,10.2,7.3,19.8,8.3
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,2,2024,1630,115,1.6,2.9,1.2,9.9,4.6,6.3,4.7,13.8,6.5
+H020,Hospital General de Agudos,Argentina,Buenos Aires,Buenos Aires Province,1,2025,2164,152,2.2,3.8,1.7,12.2,5.3,8.3,6.4,17.0,7.7
+H020,Hospital General de Agudos,Argentina,Buenos Aires,Buenos Aires Province,11,2024,2168,153,2.2,3.8,1.7,12.3,5.4,8.4,6.4,17.1,7.7
+H025,Hospital Santo Tomás,Panama,Panama City,Panama Province,5,2024,1420,99,2.5,4.4,2.1,13.1,5.7,9.8,6.7,19.2,8.0
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,6,2024,784,54,4.0,6.6,3.3,18.2,7.4,15.1,10.0,26.4,10.5
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,5,2024,1259,88,2.3,4.1,1.8,12.9,5.7,9.1,6.8,18.1,8.1
+H020,Hospital General de Agudos,Argentina,Buenos Aires,Buenos Aires Province,7,2024,2172,153,2.0,3.5,1.5,11.4,5.1,7.7,5.9,16.0,7.3
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,5,2024,1641,115,1.7,2.9,1.2,10.0,4.6,6.3,4.8,13.9,6.6
+H024,Hospital de Especialidades,Ecuador,Guayaquil,Guayas Province,12,2024,1338,94,3.5,5.9,2.9,16.6,6.9,13.6,8.9,24.3,9.9
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,11,2024,756,51,3.8,6.4,3.2,17.7,7.1,14.6,9.7,25.6,10.2
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,2,2024,1567,112,1.5,2.6,1.1,9.2,4.3,5.4,4.2,12.8,6.1
+H029,Hospital General de Zona No. 1,Mexico,Tijuana,Baja California,1,2025,1517,107,2.5,4.4,2.1,13.0,5.7,9.8,7.1,19.2,8.1
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,9,2024,1048,73,1.6,2.7,1.1,9.6,4.4,5.7,4.3,13.1,6.2
+H015,Fundación Cardioinfantil,Colombia,Bogotá,Cundinamarca,11,2024,1623,114,1.6,2.8,1.2,9.9,4.5,6.2,4.7,13.7,6.5
+H007,Hospital Cayetano Heredia,Peru,Lima,Lima Region,10,2024,1087,75,2.9,5.1,2.4,14.7,6.1,11.7,7.5,21.8,8.8
+H016,Hospital CIMA,Costa Rica,San José,San José Province,6,2024,1298,91,1.2,2.2,0.9,8.3,3.9,4.8,3.5,11.4,5.5
+H009,Hospital Roosevelt,Guatemala,Guatemala City,Guatemala Department,10,2024,680,45,4.5,7.3,3.7,19.9,7.9,16.8,11.2,28.6,11.3
+H013,Hospital Privado Universitario,Argentina,Córdoba,Córdoba Province,1,2025,1460,103,1.9,3.3,1.5,10.9,4.9,7.2,5.4,15.3,7.0
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,4,2024,1860,131,1.3,2.4,1.0,8.7,4.1,5.3,4.0,12.4,5.9
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,11,2024,1579,113,1.4,2.4,1.0,8.7,4.1,5.1,3.9,12.1,5.8
+H027,Hospital San José,Colombia,Bogotá,Cundinamarca,7,2024,1668,117,2.4,4.0,1.9,12.5,5.5,9.0,6.8,18.1,7.9
+H024,Hospital de Especialidades,Ecuador,Guayaquil,Guayas Province,7,2024,1323,93,3.4,5.8,2.9,16.4,6.8,13.4,8.7,24.0,9.8
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,6,2024,789,54,4.1,6.7,3.4,18.3,7.4,15.2,10.1,26.5,10.6
+H010,Hospital Escuela,Honduras,Tegucigalpa,Francisco Morazán,10,2024,554,37,5.3,8.6,4.4,22.1,8.8,19.3,13.1,31.8,12.8
+H003,Clínica Alemana,Chile,Santiago,Metropolitan Santiago,4,2024,1592,115,1.6,2.7,1.1,9.4,4.4,5.6,4.3,13.0,6.3
+H023,Hospital Universitario Fundación Santa Fe,Colombia,Bogotá,Cundinamarca,12,2024,1835,129,1.5,2.6,1.1,9.2,4.3,5.6,4.3,13.0,6.2
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,11,2024,820,57,4.4,7.0,3.6,19.0,7.8,15.9,10.6,27.5,11.1
+H025,Hospital Santo Tomás,Panama,Panama City,Panama Province,2,2024,1487,105,2.8,4.8,2.3,14.1,6.1,10.6,7.3,20.5,8.6
+H027,Hospital San José,Colombia,Bogotá,Cundinamarca,12,2024,1684,118,2.4,4.1,1.9,12.7,5.5,9.2,6.9,18.4,8.1
+H013,Hospital Privado Universitario,Argentina,Córdoba,Córdoba Province,4,2024,1447,102,1.9,3.3,1.4,10.7,4.8,7.0,5.3,15.1,6.9
+H026,Hospital Universitario de Neiva,Colombia,Neiva,Huila,7,2024,882,62,3.7,6.2,3.1,17.0,7.1,14.4,9.6,24.8,10.1
+H007,Hospital Cayetano Heredia,Peru,Lima,Lima Region,8,2024,1087,75,2.9,5.1,2.4,14.7,6.1,11.7,7.5,21.8,8.8
+H007,Hospital Cayetano Heredia,Peru,Lima,Lima Region,5,2024,1145,80,3.2,5.4,2.7,15.6,6.4,12.5,8.0,22.9,9.3
+H030,Hospital Universitario San Ignacio,Colombia,Bogotá,Cundinamarca,1,2024,1813,128,1.7,3.0,1.3,10.3,4.6,6.5,4.8,14.5,6.6
+H020,Hospital General de Agudos,Argentina,Buenos Aires,Buenos Aires Province,12,2024,2143,151,2.2,3.7,1.7,12.0,5.3,8.1,6.3,16.7,7.6
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,3,2024,1059,75,1.6,2.8,1.2,9.8,4.5,5.9,4.5,13.4,6.4
+H019,Hospital del Salvador,Chile,Santiago,Metropolitan Santiago,3,2024,1755,124,2.0,3.5,1.6,11.9,5.2,7.9,6.1,16.5,7.4
+H018,Hospital San Juan de Dios,Bolivia,La Paz,La Paz Department,11,2024,804,55,4.2,6.8,3.5,18.7,7.6,15.6,10.3,27.1,10.8
+H014,Hospital Sírio-Libanês,Brazil,São Paulo,Southeast Brazil,5,2024,1734,122,1.0,1.8,0.7,7.2,3.5,3.7,2.6,9.3,4.8
+H019,Hospital del Salvador,Chile,Santiago,Metropolitan Santiago,12,2024,1747,123,1.8,3.2,1.4,11.0,4.9,7.2,5.6,15.4,7.0
+H017,Hospital Clínica Bíblica,Costa Rica,San José,San José Province,10,2024,1035,72,1.5,2.6,1.1,9.4,4.3,5.6,4.2,12.8,6.1
+H005,Hospital Maciel,Uruguay,Montevideo,Montevideo,4,2024,748,52,2.8,4.7,2.3,13.9,5.9,10.6,7.2,20.4,8.5
+H022,Hospital Clínico Universidad Católica,Chile,Santiago,Metropolitan Santiago,1,2024,1899,134,1.2,2.2,0.9,8.3,4.0,4.8,3.5,11.6,5.5
+H021,Hospital Base Valdivia,Chile,Valdivia,Los Ríos Region,1,2025,1262,88,2.4,4.1,1.8,13.0,5.7,9.2,6.8,18.2,8.2
