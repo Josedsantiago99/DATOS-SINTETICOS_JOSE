@@ -1,0 +1,151 @@
+hospital_name,hospital_id,country,city,region,tasa_hf_historica,month,year,total_admissions,mortality_rate_30day,avg_length_of_stay_days,readmission_rate_30day,heart_failure_cases,mortality_rate_90day,mortality_rate_inhospital,complication_rate,hf_mortality_rate,hf_readmission_rate,hf_avg_los
+Hospital General de México,H001,Mexico,Mexico City,Central Mexico,0.07137129109863673,5,2024,1205,2.27,5.01,12.81,92,3.81,1.81,8.74,5.96,18.32,7.18
+Hospital Santo Tomás,H025,Panama,Panama City,Panama Province,0.07005494505494506,4,2024,1451,2.57,6.12,13.92,101,4.31,2.05,10.67,6.75,19.9,8.78
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,8,2025,1329,3.48,6.59,16.41,77,5.84,2.77,11.49,9.14,23.46,9.45
+Hospital Cayetano Heredia,H007,Peru,Lima,Lima Region,0.06945681211041853,1,2025,1136,2.92,5.98,13.95,79,4.9,2.33,10.43,7.67,19.95,8.57
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,7,2024,807,4.62,7.73,18.9,62,7.76,3.68,13.48,12.13,27.03,11.08
+Hospital San José,H027,Colombia,Bogotá,Cundinamarca,0.07032181168057211,1,2024,1632,2.47,5.6,11.9,103,4.15,1.97,9.76,6.49,17.02,8.03
+Hospital Sírio-Libanês,H014,Brazil,São Paulo,Southeast Brazil,0.0702263493905978,12,2025,1717,1.0,3.62,7.29,118,1.68,0.8,6.31,2.63,10.42,5.19
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,11,2025,1235,2.39,5.85,13.51,78,4.01,1.91,10.2,6.28,19.32,8.39
+Hospital Maciel,H005,Uruguay,Montevideo,Montevideo,0.06864064602960969,9,2025,756,2.8,5.7,13.84,51,4.7,2.23,9.94,7.35,19.79,8.17
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,8,2024,780,3.86,7.4,17.59,46,6.48,3.08,12.9,10.13,25.15,10.61
+Hospital Italiano,H006,Argentina,Buenos Aires,Buenos Aires Province,0.0703380588876772,10,2024,1837,1.76,4.71,10.79,135,2.95,1.4,8.21,4.62,15.43,6.75
+Hospital Clínica Bíblica,H017,Costa Rica,San José,San José Province,0.06963249516441006,1,2024,1023,1.49,4.27,9.16,72,2.5,1.19,7.45,3.91,13.1,6.12
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,6,2024,1816,1.36,4.44,9.16,129,2.28,1.08,7.74,3.57,13.1,6.37
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,11,2024,1364,3.39,6.63,16.43,97,5.69,2.7,11.56,8.9,23.49,9.51
+Hospital Italiano,H006,Argentina,Buenos Aires,Buenos Aires Province,0.0703380588876772,1,2024,1882,1.91,4.71,10.48,135,3.21,1.52,8.21,5.01,14.99,6.75
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,9,2024,2138,2.02,5.4,12.44,149,3.39,1.61,9.42,5.3,17.79,7.74
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,1,2024,606,5.36,9.24,22.02,51,9.0,4.27,16.11,14.07,31.49,13.25
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,10,2024,2160,2.06,5.48,12.42,138,3.46,1.64,9.56,5.41,17.76,7.86
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,9,2024,1836,1.34,4.27,9.13,119,2.25,1.07,7.45,3.52,13.05,6.12
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,8,2024,2128,2.14,5.41,12.05,143,3.59,1.71,9.43,5.62,17.23,7.76
+Hospital Clínica Bíblica,H017,Costa Rica,San José,San José Province,0.06963249516441006,6,2024,1018,1.38,4.2,9.25,73,2.32,1.1,7.32,3.62,13.23,6.02
+Hospital das Clínicas,H012,Brazil,São Paulo,Southeast Brazil,0.07033866765909937,1,2024,2706,2.25,4.92,11.42,204,3.78,1.79,8.58,5.91,16.33,7.05
+Hospital México,H008,Costa Rica,San José,San José Province,0.06838565022421525,8,2024,922,2.53,5.5,13.08,65,4.25,2.02,9.59,6.64,18.7,7.89
+Hospital Privado Universitario,H013,Argentina,Córdoba,Córdoba Province,0.07005494505494506,6,2024,1469,1.9,4.78,10.32,99,3.19,1.51,8.34,4.99,14.76,6.85
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,11,2024,604,5.63,9.34,23.7,35,9.45,4.49,16.29,14.78,33.89,13.39
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,4,2024,1821,1.56,4.31,9.87,152,2.62,1.24,7.52,4.1,14.11,6.18
+Hospital San Vicente de Paúl,H004,Colombia,Medellín,Antioquia,0.06889564336372847,4,2024,960,3.84,7.1,16.97,81,6.45,3.06,12.38,10.08,24.27,10.18
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,1,2024,784,3.95,7.15,18.38,48,6.63,3.15,12.47,10.37,26.28,10.25
+Hospital Israelita Albert Einstein,H002,Brazil,São Paulo,Southeast Brazil,0.07272727272727272,2,2024,2131,1.05,3.79,7.46,135,1.76,0.84,6.61,2.76,10.67,5.43
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,4,2024,1822,1.32,4.3,9.53,142,2.22,1.05,7.5,3.47,13.63,6.17
+Hospital Maciel,H005,Uruguay,Montevideo,Montevideo,0.06864064602960969,4,2024,763,2.53,5.74,14.35,72,4.25,2.02,10.01,6.64,20.52,8.23
+Hospital Sírio-Libanês,H014,Brazil,São Paulo,Southeast Brazil,0.0702263493905978,1,2024,1734,0.99,3.47,7.45,128,1.66,0.79,6.05,2.6,10.65,4.98
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,12,2024,1924,1.51,4.52,10.09,137,2.53,1.2,7.88,3.96,14.43,6.48
+Hospital Universitario de Neiva,H026,Colombia,Neiva,Huila,0.06920415224913495,1,2024,849,3.49,6.9,16.27,50,5.86,2.78,12.03,9.16,23.26,9.89
+Clínica Alemana,H003,Chile,Santiago,Metropolitan Santiago,0.07147415443522655,2,2024,1492,1.43,4.28,8.88,87,2.4,1.14,7.46,3.75,12.7,6.14
+Fundación Cardioinfantil,H015,Colombia,Bogotá,Cundinamarca,0.07009925558312655,7,2024,1619,1.82,4.5,10.14,126,3.06,1.45,7.85,4.78,14.5,6.45
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,3,2024,1260,2.47,5.32,13.11,88,4.15,1.97,9.28,6.49,18.75,7.63
+Hospital San Vicente de Paúl,H004,Colombia,Medellín,Antioquia,0.06889564336372847,4,2024,987,4.1,6.96,16.03,57,6.88,3.27,12.14,10.76,22.92,9.98
+Hospital San Vicente de Paúl,H004,Colombia,Medellín,Antioquia,0.06889564336372847,2,2024,948,3.55,6.73,16.28,64,5.96,2.83,11.74,9.32,23.28,9.65
+Hospital Roosevelt,H009,Guatemala,Guatemala City,Guatemala Department,0.06637168141592921,1,2024,691,4.27,7.9,19.45,44,7.17,3.4,13.78,11.21,27.81,11.33
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,5,2024,804,4.27,7.42,18.45,49,7.17,3.4,12.94,11.21,26.38,10.64
+Hospital Universitario San Ignacio,H030,Colombia,Bogotá,Cundinamarca,0.07043040804918949,5,2024,1845,1.6,4.6,10.33,141,2.69,1.28,8.02,4.2,14.77,6.6
+Hospital Roosevelt,H009,Guatemala,Guatemala City,Guatemala Department,0.06637168141592921,10,2024,678,4.48,7.6,19.67,46,7.52,3.57,13.25,11.76,28.13,10.9
+Hospital San José,H027,Colombia,Bogotá,Cundinamarca,0.07032181168057211,2,2024,1651,2.44,5.39,12.44,117,4.1,1.94,9.4,6.41,17.79,7.73
+Hospital Sírio-Libanês,H014,Brazil,São Paulo,Southeast Brazil,0.0702263493905978,9,2024,1765,0.94,3.49,6.72,131,1.58,0.75,6.09,2.47,9.61,5.0
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,4,2024,1248,2.43,5.69,13.14,88,4.08,1.94,9.92,6.38,18.79,8.16
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,2,2025,1323,3.3,6.86,16.47,98,5.54,2.63,11.96,8.66,23.55,9.84
+Hospital del Salvador,H019,Chile,Santiago,Metropolitan Santiago,0.07035755478662054,10,2024,1723,2.02,5.16,12.01,124,3.39,1.61,9.0,5.3,17.17,7.4
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,7,2024,558,5.01,8.82,20.87,43,8.41,3.99,15.38,13.15,29.84,12.65
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,10,2024,538,5.4,9.11,21.65,37,9.06,4.3,15.89,14.18,30.96,13.06
+Hospital General de Zona No. 1,H029,Mexico,Tijuana,Baja California,0.07040417209908735,4,2024,1530,2.72,5.99,13.64,102,4.57,2.17,10.44,7.14,19.5,8.59
+Hospital San José,H027,Colombia,Bogotá,Cundinamarca,0.07032181168057211,1,2024,1707,2.33,5.6,12.97,118,3.91,1.86,9.76,6.12,18.55,8.03
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,1,2024,1843,1.61,4.17,9.0,129,2.7,1.28,7.27,4.23,12.87,5.98
+Fundación Cardioinfantil,H015,Colombia,Bogotá,Cundinamarca,0.07009925558312655,9,2024,1593,1.64,4.49,9.63,95,2.75,1.31,7.83,4.31,13.77,6.44
+Clínica Alemana,H003,Chile,Santiago,Metropolitan Santiago,0.07147415443522655,11,2024,1517,1.55,4.4,8.86,100,2.6,1.24,7.67,4.07,12.67,6.31
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,6,2024,1279,3.37,6.68,15.99,83,5.66,2.69,11.65,8.85,22.86,9.58
+Hospital Clínico Universidad Católica,H022,Chile,Santiago,Metropolitan Santiago,0.07020280811232449,11,2024,1875,1.14,4.03,8.41,136,1.91,0.91,7.03,2.99,12.03,5.78
+Hospital Italiano,H006,Argentina,Buenos Aires,Buenos Aires Province,0.0703380588876772,11,2024,1823,1.92,4.84,10.57,106,3.22,1.53,8.44,5.04,15.11,6.94
+Hospital Universitario San Ignacio,H030,Colombia,Bogotá,Cundinamarca,0.07043040804918949,2,2025,1780,1.75,4.53,9.88,127,2.94,1.39,7.9,4.59,14.13,6.5
+Hospital General de Zona No. 1,H029,Mexico,Tijuana,Baja California,0.07040417209908735,1,2025,1562,2.41,5.4,13.42,112,4.05,1.92,9.42,6.33,19.19,7.74
+Hospital Israelita Albert Einstein,H002,Brazil,São Paulo,Southeast Brazil,0.07272727272727272,9,2024,2150,1.24,3.75,7.97,148,2.08,0.99,6.54,3.26,11.4,5.38
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,9,2024,1226,2.16,5.57,13.02,85,3.63,1.72,9.71,5.67,18.62,7.99
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,3,2024,1370,3.54,6.93,16.83,108,5.94,2.82,12.08,9.29,24.07,9.94
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,11,2024,541,5.46,8.46,21.73,25,9.17,4.35,14.75,14.34,31.07,12.13
+Hospital San José,H027,Colombia,Bogotá,Cundinamarca,0.07032181168057211,7,2024,1731,2.37,5.87,12.29,125,3.98,1.89,10.24,6.22,17.57,8.42
+Hospital Sírio-Libanês,H014,Brazil,São Paulo,Southeast Brazil,0.0702263493905978,11,2024,1762,1.16,3.56,7.13,122,1.95,0.92,6.21,3.05,10.2,5.1
+Hospital Sírio-Libanês,H014,Brazil,São Paulo,Southeast Brazil,0.0702263493905978,3,2024,1753,1.21,3.38,7.19,141,2.03,0.96,5.89,3.18,10.28,4.85
+Hospital Privado Universitario,H013,Argentina,Córdoba,Córdoba Province,0.07005494505494506,2,2024,1399,1.76,4.56,10.18,96,2.95,1.4,7.95,4.62,14.56,6.54
+Hospital Santo Tomás,H025,Panama,Panama City,Panama Province,0.07005494505494506,11,2024,1470,2.76,5.75,14.34,111,4.63,2.2,10.03,7.25,20.5,8.24
+Hospital México,H008,Costa Rica,San José,San José Province,0.06838565022421525,6,2024,900,2.45,5.36,12.94,74,4.11,1.95,9.35,6.43,18.5,7.69
+Hospital Privado Universitario,H013,Argentina,Córdoba,Córdoba Province,0.07005494505494506,8,2024,1421,1.74,5.02,11.15,97,2.92,1.39,8.75,4.57,15.94,7.2
+Hospital Cayetano Heredia,H007,Peru,Lima,Lima Region,0.06945681211041853,8,2024,1112,3.09,6.49,15.44,60,5.19,2.46,11.32,8.11,22.08,9.31
+Hospital Universitario de Caracas,H011,Venezuela,Caracas,Capital District,0.06619385342789598,8,2024,422,6.74,11.04,26.52,23,11.31,5.37,19.25,17.7,37.92,15.83
+Clínica Alemana,H003,Chile,Santiago,Metropolitan Santiago,0.07147415443522655,2,2024,1523,1.35,4.19,9.16,88,2.27,1.08,7.31,3.54,13.1,6.01
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,2,2024,761,3.55,7.06,17.39,52,5.96,2.83,12.31,9.32,24.87,10.12
+Hospital Italiano,H006,Argentina,Buenos Aires,Buenos Aires Province,0.0703380588876772,2,2024,1781,1.79,4.75,10.4,131,3.0,1.43,8.28,4.7,14.87,6.81
+Hospital General de México,H001,Mexico,Mexico City,Central Mexico,0.07137129109863673,3,2024,1276,2.19,5.14,13.51,84,3.68,1.75,8.96,5.75,19.32,7.37
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,9,2024,764,4.21,7.43,18.45,56,7.07,3.36,12.96,11.05,26.38,10.65
+Hospital Clínico Universidad Católica,H022,Chile,Santiago,Metropolitan Santiago,0.07020280811232449,12,2024,2014,1.47,4.29,8.79,134,2.47,1.17,7.48,3.86,12.57,6.15
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,8,2025,2182,2.28,5.4,11.64,157,3.83,1.82,9.42,5.99,16.64,7.74
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,12,2024,2150,2.36,5.4,12.47,156,3.96,1.88,9.42,6.2,17.83,7.74
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,6,2024,2120,2.34,5.35,11.82,133,3.93,1.87,9.33,6.14,16.9,7.67
+Hospital Israelita Albert Einstein,H002,Brazil,São Paulo,Southeast Brazil,0.07272727272727272,3,2024,2219,1.31,3.94,8.25,142,2.2,1.04,6.87,3.44,11.8,5.65
+Hospital Universitario de Neiva,H026,Colombia,Neiva,Huila,0.06920415224913495,7,2024,871,3.67,7.33,16.1,52,6.16,2.93,12.78,9.64,23.02,10.51
+Hospital Roosevelt,H009,Guatemala,Guatemala City,Guatemala Department,0.06637168141592921,3,2024,707,4.48,8.08,20.24,48,7.52,3.57,14.09,11.76,28.94,11.59
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,5,2024,560,5.14,8.84,22.56,31,8.63,4.1,15.41,13.5,32.26,12.68
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,1,2024,1320,3.64,6.79,16.46,98,6.11,2.9,11.84,9.56,23.54,9.74
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,4,2024,1221,2.31,5.69,12.55,89,3.88,1.84,9.92,6.07,17.95,8.16
+Hospital Universitario de Caracas,H011,Venezuela,Caracas,Capital District,0.06619385342789598,11,2024,425,6.84,10.68,26.58,30,11.48,5.45,18.62,17.96,38.01,15.31
+Hospital México,H008,Costa Rica,San José,San José Province,0.06838565022421525,1,2024,923,2.57,5.48,12.79,59,4.31,2.05,9.56,6.75,18.29,7.86
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,7,2024,1292,2.34,5.73,13.65,93,3.93,1.87,9.99,6.14,19.52,8.22
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,4,2024,2152,2.35,5.39,12.52,150,3.94,1.87,9.4,6.17,17.9,7.73
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,2,2024,519,4.98,8.3,20.85,35,8.36,3.97,14.47,13.08,29.81,11.9
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,4,2024,614,5.53,9.39,22.83,36,9.28,4.41,16.37,14.52,32.64,13.46
+Hospital México,H008,Costa Rica,San José,San José Province,0.06838565022421525,4,2024,859,2.4,5.54,13.11,50,4.03,1.91,9.66,6.3,18.75,7.94
+Hospital das Clínicas,H012,Brazil,São Paulo,Southeast Brazil,0.07033866765909937,2,2024,2602,2.04,4.9,10.96,186,3.42,1.63,8.54,5.36,15.67,7.03
+Hospital Roosevelt,H009,Guatemala,Guatemala City,Guatemala Department,0.06637168141592921,11,2024,663,4.14,7.74,19.6,39,6.95,3.3,13.5,10.87,28.03,11.1
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,10,2024,634,5.37,9.55,23.65,40,9.01,4.28,16.65,14.1,33.82,13.69
+Hospital General de México,H001,Mexico,Mexico City,Central Mexico,0.07137129109863673,7,2024,1317,2.34,5.38,13.23,87,3.93,1.87,9.38,6.14,18.92,7.71
+Hospital das Clínicas,H012,Brazil,São Paulo,Southeast Brazil,0.07033866765909937,10,2024,2692,2.05,4.95,11.38,179,3.44,1.63,8.63,5.38,16.27,7.1
+Hospital Universitario San Ignacio,H030,Colombia,Bogotá,Cundinamarca,0.07043040804918949,6,2024,1790,1.49,4.48,10.23,135,2.5,1.19,7.81,3.91,14.63,6.42
+Hospital CIMA,H016,Costa Rica,San José,San José Province,0.06982156710628394,2,2024,1264,1.24,3.95,8.29,101,2.08,0.99,6.89,3.26,11.85,5.66
+Hospital del Salvador,H019,Chile,Santiago,Metropolitan Santiago,0.07035755478662054,12,2024,1766,2.04,5.43,11.95,113,3.42,1.63,9.47,5.36,17.09,7.79
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,11,2024,1850,1.58,4.29,9.12,123,2.65,1.26,7.48,4.15,13.04,6.15
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,12,2024,1369,3.39,6.99,16.62,92,5.69,2.7,12.19,8.9,23.76,10.02
+Hospital General de Zona No. 1,H029,Mexico,Tijuana,Baja California,0.07040417209908735,8,2024,1505,2.61,5.73,13.33,116,4.38,2.08,9.99,6.85,19.06,8.22
+Hospital Universitario de Caracas,H011,Venezuela,Caracas,Capital District,0.06619385342789598,6,2024,425,6.82,10.64,25.95,31,11.45,5.44,18.55,17.91,37.11,15.26
+Clínica Alemana,H003,Chile,Santiago,Metropolitan Santiago,0.07147415443522655,9,2024,1561,1.57,4.46,9.14,102,2.64,1.25,7.78,4.12,13.07,6.39
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,1,2024,1816,1.61,4.32,9.55,124,2.7,1.28,7.53,4.23,13.66,6.19
+Hospital CIMA,H016,Costa Rica,San José,San José Province,0.06982156710628394,9,2024,1273,1.22,4.07,9.02,89,2.05,0.97,7.1,3.2,12.9,5.84
+Hospital de Especialidades,H024,Ecuador,Guayaquil,Guayas Province,0.0701219512195122,7,2024,1304,3.45,6.84,16.44,99,5.79,2.75,11.93,9.06,23.51,9.81
+Hospital San José,H027,Colombia,Bogotá,Cundinamarca,0.07032181168057211,1,2024,1674,2.51,5.33,12.58,108,4.21,2.0,9.29,6.59,17.99,7.64
+Hospital Cayetano Heredia,H007,Peru,Lima,Lima Region,0.06945681211041853,4,2024,1112,3.22,6.41,15.96,81,5.41,2.57,11.18,8.45,22.82,9.19
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,11,2024,1890,1.46,4.3,8.88,126,2.45,1.16,7.5,3.83,12.7,6.17
+Hospital Privado Universitario,H013,Argentina,Córdoba,Córdoba Province,0.07005494505494506,5,2025,1438,1.75,4.82,11.21,92,2.94,1.39,8.4,4.59,16.03,6.91
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,6,2024,525,5.11,8.0,20.62,30,8.58,4.07,13.95,13.42,29.48,11.47
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,11,2024,1229,2.11,5.54,13.35,94,3.54,1.68,9.66,5.54,19.09,7.94
+Hospital Privado Universitario,H013,Argentina,Córdoba,Córdoba Province,0.07005494505494506,4,2024,1469,1.93,4.79,11.09,105,3.24,1.54,8.35,5.07,15.86,6.87
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,10,2024,619,5.82,9.51,23.37,52,9.77,4.64,16.58,15.28,33.42,13.64
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,3,2025,619,6.14,9.32,23.78,45,10.31,4.89,16.25,16.12,34.0,13.36
+Hospital San Juan de Dios,H018,Bolivia,La Paz,La Paz Department,0.06844106463878327,3,2024,805,4.26,7.93,19.61,47,7.15,3.4,13.83,11.19,28.04,11.37
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,3,2024,531,5.4,9.06,22.23,37,9.06,4.3,15.8,14.18,31.79,12.99
+Hospital General de México,H001,Mexico,Mexico City,Central Mexico,0.07137129109863673,3,2024,1293,2.37,5.31,12.5,83,3.98,1.89,9.26,6.22,17.87,7.61
+Hospital Clínica Bíblica,H017,Costa Rica,San José,San José Province,0.06963249516441006,1,2024,1054,1.53,4.36,9.37,67,2.57,1.22,7.6,4.02,13.4,6.25
+Hospital CIMA,H016,Costa Rica,San José,San José Province,0.06982156710628394,6,2024,1270,1.46,4.1,8.89,93,2.45,1.16,7.15,3.83,12.71,5.88
+Hospital Clínica Bíblica,H017,Costa Rica,San José,San José Province,0.06963249516441006,1,2024,1061,1.47,4.36,9.47,75,2.47,1.17,7.6,3.86,13.54,6.25
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,10,2024,1866,1.53,4.33,10.08,120,2.57,1.22,7.55,4.02,14.41,6.21
+Hospital Escuela,H010,Honduras,Tegucigalpa,Francisco Morazán,0.06629834254143646,5,2024,567,5.35,8.31,21.29,42,8.98,4.26,14.49,14.05,30.44,11.92
+Hospital Santo Tomás,H025,Panama,Panama City,Panama Province,0.07005494505494506,11,2024,1467,2.62,5.92,13.68,109,4.4,2.09,10.32,6.88,19.56,8.49
+Hospital CIMA,H016,Costa Rica,San José,San José Province,0.06982156710628394,1,2024,1271,1.53,4.08,8.79,101,2.57,1.22,7.11,4.02,12.57,5.85
+Hospital Clínica Bíblica,H017,Costa Rica,San José,San José Province,0.06963249516441006,12,2024,1049,1.47,4.49,9.51,79,2.47,1.17,7.83,3.86,13.6,6.44
+Fundación Cardioinfantil,H015,Colombia,Bogotá,Cundinamarca,0.07009925558312655,10,2024,1648,1.63,4.72,10.07,130,2.74,1.3,8.23,4.28,14.4,6.77
+Hospital San José,H027,Colombia,Bogotá,Cundinamarca,0.07032181168057211,6,2024,1624,2.38,5.37,12.36,123,4.0,1.9,9.36,6.25,17.67,7.7
+Hospital General de Agudos,H020,Argentina,Buenos Aires,Buenos Aires Province,0.07003710575139147,12,2024,2230,2.43,5.22,12.64,142,4.08,1.94,9.1,6.38,18.07,7.48
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,1,2024,1249,2.3,5.52,12.85,85,3.86,1.83,9.63,6.04,18.37,7.91
+Hospital Universitario San Ignacio,H030,Colombia,Bogotá,Cundinamarca,0.07043040804918949,5,2024,1810,1.78,4.58,10.6,131,2.99,1.42,7.99,4.67,15.16,6.57
+Hospital Universitario de Neiva,H026,Colombia,Neiva,Huila,0.06920415224913495,5,2024,865,3.73,7.16,17.41,64,6.26,2.97,12.49,9.79,24.89,10.27
+Fundación Cardioinfantil,H015,Colombia,Bogotá,Cundinamarca,0.07009925558312655,7,2024,1620,1.71,4.59,9.58,113,2.87,1.36,8.0,4.49,13.7,6.58
+Hospital Sírio-Libanês,H014,Brazil,São Paulo,Southeast Brazil,0.0702263493905978,5,2024,1730,1.11,3.51,7.76,114,1.86,0.88,6.12,2.91,11.1,5.03
+Hospital Universitario Fundación Santa Fe,H023,Colombia,Bogotá,Cundinamarca,0.06991869918699187,12,2025,1869,1.52,4.28,8.92,119,2.55,1.21,7.46,3.99,12.75,6.14
+Hospital Universitario San Ignacio,H030,Colombia,Bogotá,Cundinamarca,0.07043040804918949,6,2025,1788,1.77,4.55,9.83,143,2.97,1.41,7.93,4.65,14.06,6.52
+Hospital Italiano,H006,Argentina,Buenos Aires,Buenos Aires Province,0.0703380588876772,11,2024,1868,1.83,4.57,10.22,130,3.07,1.46,7.97,4.8,14.61,6.55
+Hospital Italiano,H006,Argentina,Buenos Aires,Buenos Aires Province,0.0703380588876772,1,2024,1837,1.88,4.65,11.0,138,3.16,1.5,8.11,4.94,15.73,6.67
+Hospital das Clínicas,H012,Brazil,São Paulo,Southeast Brazil,0.07033866765909937,4,2024,2709,2.06,4.78,11.42,161,3.46,1.64,8.34,5.41,16.33,6.85
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,7,2024,617,5.81,9.77,23.0,32,9.75,4.63,17.04,15.25,32.89,14.01
+Hospital Escuela Dr. Roberto Calderón,H028,Nicaragua,Managua,Managua Department,0.06699346405228758,5,2024,631,5.67,9.52,22.53,40,9.52,4.52,16.6,14.89,32.22,13.65
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,8,2024,1265,2.36,5.46,12.39,84,3.96,1.88,9.52,6.2,17.72,7.83
+Hospital General de Zona No. 1,H029,Mexico,Tijuana,Baja California,0.07040417209908735,8,2024,1547,2.58,5.8,13.63,109,4.33,2.06,10.11,6.77,19.49,8.32
+Hospital Base Valdivia,H021,Chile,Valdivia,Los Ríos Region,0.06987951807228916,9,2024,1244,2.29,5.57,12.96,93,3.84,1.83,9.71,6.01,18.53,7.99
+Hospital Universitario de Neiva,H026,Colombia,Neiva,Huila,0.06920415224913495,10,2024,876,3.45,7.07,15.99,49,5.79,2.75,12.33,9.06,22.86,10.14
